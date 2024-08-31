@@ -1,6 +1,6 @@
 Product JSON: https://github.com/rvsp/database/blob/master/mongodb/product.json
 
-### For the following question write the corresponding MongoDB queries:-
+### For the following question write the corresponding MongoDB queries :-
 
 First I am creating the database with the provided json file by :
 
